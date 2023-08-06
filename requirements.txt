@@ -1,0 +1,4 @@
+pandas==1.5.3
+SQLAlchemy==1.4
+SQLSorcery==0.1.6
+pygsheets==2.0.6
